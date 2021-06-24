@@ -9,7 +9,7 @@
 
 	<properties>
 		<hibernate.version>4.2.15.Final</hibernate.version>
-		<postgresql.version>9.3-1102-jdbc41</postgresql.version>
+		<postgresql.version>9.4.1212.jre7</postgresql.version>
 	</properties>
 
 	<dependencies>
